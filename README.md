@@ -4,7 +4,7 @@ Hi My name is Sergio
 I'm an IT engineer and fullstack web developer, passionate about learning new things.
 
 * 🌍  I'm based in Mexico
-* 🧠  I'm learning React
+* 🧠  I'm learning MERN stack
 * 🃏  I'm magician in my free time
 
 ### Things i'm good at
